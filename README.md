@@ -11,4 +11,4 @@ I am also interested in both node and core performance engineering, and I spend 
 
 Whenever there is free time, I like to play around with, cryptography particularly post-quantum cryptography algorithms. 
 
-I am currently the lead developer of [neuraLQX](https://github.com/waleed-sh/neuraLQX) (to be released soon), which is a python package built on [NetKet](https://github.com/netket/netket) for the purpose of utilising neural network quantum states to solve constraints of canonical loop quantum gravity systems.
+I am currently the lead developer of [neuraLQX](https://github.com/waleed-sh/neuraLQX), which is an open-source python package built on [NetKet](https://github.com/netket/netket) for the purpose of utilising neural network quantum states to solve constraints of canonical loop quantum gravity systems.
